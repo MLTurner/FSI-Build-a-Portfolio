@@ -1,5 +1,6 @@
-div{background-color: mintcream;
+div{background-color: rgb(95, 168, 132);
 color:navy;
-border-style:solid}
-.bold
-{font.weight:bold;}
+border-style:ridge;}
+p.bold
+{font-weight: 800;// bold;}
+
